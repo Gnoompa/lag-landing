@@ -190,15 +190,15 @@ export default function Home() {
         </Flex>
         <hr color="#111" style={{ width: "100%" }} />
         <Flex style={{ gap: "1rem" }} justifyContent={"flex-end"}>
-          <Link href="/" target="_blank">
+          <Link href="https://twitter.com/lagonchain" target="_blank">
             <img src="/x.svg"></img>
           </Link>
-          <Link href="/" target="_blank">
+          <Link href="https://discord.gg/hH8N6JKH" target="_blank">
             <img src="/discord.svg"></img>
           </Link>
-          <Link href="/" target="_blank">
+          {/* <Link href="/" target="_blank">
             <img src="/warpcast.svg"></img>
-          </Link>
+          </Link> */}
         </Flex>
       </Flex>
     </Flex>
